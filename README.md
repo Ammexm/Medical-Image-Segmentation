@@ -28,20 +28,20 @@ If you find our work useful in your research, please consider citing:
 
 ## List of related papers and code
 ### Pre-Transformer Attention in Medical Segmentation
-- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
-  "Segment Anything." **ICCV (2023) Best Paper Honorable Mention**.
-  [[paper](https://arxiv.org/abs/2304.02643)] 
-  [[code](https://github.com/facebookresearch/segment-anything)]
+- **TransUnet:** Chen, Jieneng and Lu, Yongyi and Yu, Qihang and Luo, Xiangde and Adeli, Ehsan and Wang, Yan and Lu, Le and Yuille, Alan L., and Zhou, Yuyin.<br />
+  "Transunet: Transformers make strong encoders for medical image segmentation" **ICCV (2023) Best Paper Honorable Mention**.
+  [[paper](https://arxiv.org/pdf/2102.04306)] 
+  [[code](https://github.com/Beckschen/TransUNet)]
 
 ### Transformer in medical Segmentation
-- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
-  "Segment Anything." **ICCV (2023) Best Paper Honorable Mention**.
-  [[paper](https://arxiv.org/pdf/2011.09763)] 
-  [[code](https://github.com/facebookresearch/segment-anything)]
+- **TransUnet:** Chen, Jieneng and Lu, Yongyi and Yu, Qihang and Luo, Xiangde and Adeli, Ehsan and Wang, Yan and Lu, Le and Yuille, Alan L., and Zhou, Yuyin.<br />
+  "Transunet: Transformers make strong encoders for medical image segmentation" **ICCV (2023) Best Paper Honorable Mention**.
+  [[paper](https://arxiv.org/pdf/2102.04306)] 
+  [[code](https://github.com/Beckschen/TransUNet)]
 
 ### Mamba in medical Segmentation
-- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
-  "Segment Anything." **ICCV (2023) Best Paper Honorable Mention**.
-  [[paper](https://arxiv.org/abs/2304.02643)] 
-  [[code](https://github.com/facebookresearch/segment-anything)]
+- **TransUnet:** Chen, Jieneng and Lu, Yongyi and Yu, Qihang and Luo, Xiangde and Adeli, Ehsan and Wang, Yan and Lu, Le and Yuille, Alan L., and Zhou, Yuyin.<br />
+  "Transunet: Transformers make strong encoders for medical image segmentation" **ICCV (2023) Best Paper Honorable Mention**.
+  [[paper](https://arxiv.org/pdf/2102.04306)] 
+  [[code](https://github.com/Beckschen/TransUNet)]
 
