@@ -1,11 +1,11 @@
-# Medical Image Segmentation Attention Mechanism Transformer Deep Learning
+# Attention Mechanisms in Medical Image Segmentation: A Survey
 
 > **The First Comprehensive SAM Survey: A Comprehensive Survey on Segment Anything Model for Vision and Beyond.** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu. [[paper]([https://arxiv.org/abs/2305.08196](https://arxiv.org/abs/2305.17937))] [[homepage](https://github.com/Ammexm/Medical-Image-Segmentation)]
 
 > **<p align="justify"> Abstract:** *......* </p>
 
 
-> **Awesome Segment Anything Models:** A curated list of awesome segment anything models in computer vision and beyond. This repository supplements our survey paper. We intend to continuously update it.
+> **Medical Image Segmentation Models:** A curated list of Medical Image Segmentation models in computer vision and beyond. This repository supplements our survey paper. We intend to continuously update it.
 #### If you like our project, please give us a star ⭐ on GitHub for latest update.
 ____
 
