@@ -15,10 +15,10 @@ ____
 - 2023.05.29: The paper was online.
 ```
 ## Contents
-- [List of related papers and code](#List of related papers and code) 
-  - ["Pre-Transformer Attention in Medical Segmentation" Section](#"Pre-Transformer Attention in Medical Segmentation" Section)
-  - ["Transformer in medical Segmentation" Section](#"Transformer in medical Segmentation" Section)
-  - [""Mamba in medical Segmentation" Section](#"Mamba in medical Segmentation" Section)
+- [List of related papers and code](#List-of-related-papers-and-code) 
+  - [Pre-Transformer Attention in Medical Segmentation](#Pre-Transformer-Attention-in-Medical-Segmentatio)
+  - [Transformer in medical Segmentation](#Transformer-in-medical-Segmentation)
+  - [Mamba in medical Segmentation](#Mamba-in-medical-Segmentation)
 ## Citation
 
 If you find our work useful in your research, please consider citing:
@@ -27,22 +27,21 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ## List of related papers and code
-### "Pre-Transformer Attention in Medical Segmentation" Section
+### Pre-Transformer Attention in Medical Segmentation
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
   "Segment Anything." **ICCV (2023) Best Paper Honorable Mention**.
   [[paper](https://arxiv.org/abs/2304.02643)] 
   [[code](https://github.com/facebookresearch/segment-anything)]
 
-### "Transformer in medical Segmentation" Section
+### Transformer in medical Segmentation
+- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
+  "Segment Anything." **ICCV (2023) Best Paper Honorable Mention**.
+  [[paper](https://arxiv.org/pdf/2011.09763)] 
+  [[code](https://github.com/facebookresearch/segment-anything)]
+
+### Mamba in medical Segmentation
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
   "Segment Anything." **ICCV (2023) Best Paper Honorable Mention**.
   [[paper](https://arxiv.org/abs/2304.02643)] 
   [[code](https://github.com/facebookresearch/segment-anything)]
 
-### "Mamba in medical Segmentation" Section
-- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
-  "Segment Anything." **ICCV (2023) Best Paper Honorable Mention**.
-  [[paper](https://arxiv.org/abs/2304.02643)] 
-  [[code](https://github.com/facebookresearch/segment-anything)]
-
-  
