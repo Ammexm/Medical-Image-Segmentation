@@ -1,6 +1,6 @@
 # Attention Mechanisms in Medical Image Segmentation: A Survey
 
-> **A Comprehensive Survey on Segment Anything Model for Vision and Beyond.** . [[paper](https://arxiv.org/abs/2305.17937)] [[homepage](https://github.com/Ammexm/Medical-Image-Segmentation)]
+> **A Comprehensive Survey on Medical image segmentation.** . [[paper](https://arxiv.org/abs/2305.17937)] [[homepage](https://github.com/Ammexm/Medical-Image-Segmentation)]
 
 > **<p align="justify"> Abstract:** *......* </p>
 
