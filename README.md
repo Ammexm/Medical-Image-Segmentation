@@ -16,7 +16,7 @@ ____
 ```
 ## Contents
 - [List of related papers and code](#List-of-related-papers-and-code) 
-  - [Pre-Transformer Attention in Medical Segmentation](#Pre-Transformer-Attention-in-Medical-Segmentatio)
+  - [Pre-Transformer Attention in Medical Segmentation](#Pre-Transformer-Attention-in-Medical-Segmentation)
   - [Transformer in medical Segmentation](#Transformer-in-medical-Segmentation)
   - [Mamba in medical Segmentation](#Mamba-in-medical-Segmentation)
 ## Citation
