@@ -195,7 +195,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2111.13300)]
   [[code](https://github.com/himashi92/VT-UNet)]
 
-- **VT-UNet:** Tang, Yucheng and Yang, Dong and Li, Wenqi and Roth, Holger R and Landman, Bennett and Xu, Daguang and Nath, Vishwesh and Hatamizadeh, Ali.<br />
+- Tang, Yucheng and Yang, Dong and Li, Wenqi and Roth, Holger R and Landman, Bennett and Xu, Daguang and Nath, Vishwesh and Hatamizadeh, Ali.<br />
   "Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis" **CVPR (2022)**.
   [[paper](https://arxiv.org/abs/2111.14791)]
   [[code](https://monai.io/research/swin-unetr)]
@@ -204,6 +204,41 @@ If you find our work useful in your research, please consider citing:
   "UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer" **AAAI (2022)**.
   [[paper](https://arxiv.org/abs/2109.04335)]
   [[code](https://github.com/McGregorWwww/UCTransNet)]
+
+- **Swin UNETR:** Hatamizadeh, Ali and Nath, Vishwesh and Tang, Yucheng and Yang, Dong and Roth, Holger R and Xu, Daguang.<br />
+  "Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images" **International MICCAI Brainlesion Workshop (2021)**.
+  [[paper](https://arxiv.org/abs/2201.01266)]
+  [[code](https://monai.io/research/swin-unetr)]
+
+- **ViTBIS:** Sagar, Abhinav.<br />
+  "ViTBIS: Vision Transformer for Biomedical Image Segmentation" **MICCAI Workshop on Distributed and Collaborative Learning (2021)**.
+  [[paper](https://arxiv.org/abs/2201.05920)]
+
+- **TransBTSV2:** Li, Jiangyun and Wang, Wenxuan and Chen, Chen and Zhang, Tianxiang and Zha, Sen and Yu, Hong and Wang, Jing.<br />
+  "TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation" **arXiv (2022)**.
+  [[paper](https://arxiv.org/abs/2201.12785)]
+  [[code](https://github.com/Wenxuan-1119/TransBTS)]
+
+- **SSFormer:** Wang, Jinfeng and Huang, Qiming and Tang, Feilong and Meng, Jia and Su, Jionglong and Song, Sifan.<br />
+  "Stepwise Feature Fusion: Local Guides Global" **MICCAI (2022)**.
+  [[paper](https://arxiv.org/abs/2203.03635)]
+  [[code](https://github.com/Qiming-Huang/ssformer)]
+
+- **SwinBTS:** Jiang, Yun and Zhang, Yuan and Lin, Xin and Dong, Jinkun and Cheng, Tongtong and Liang, Jing.<br />
+  "SwinBTS: A method for 3D multimodal brain tumor segmentation using swin transformer" **Brain sciences (2022)**.
+  [[paper](https://www.mdpi.com/2076-3425/12/6/797/pdf)]
+  [[code](https://github.com/langwangdezhexue/Swin_BTS)]
+
+- **3D PSwinBTS:** Liang, Junjie and Yang, Cihui and Zeng, Lingguo.<br />
+  "3D PSwinBTS: An efficient transformer-based Unet using 3D parallel shifted windows for brain tumor segmentation" **Digital Signal Processing (2022)**.
+
+- **TranSiam:** Li, Xuejian and Ma, Shiqiang and Tang, Jijun and Guo, Fei.<br />
+  "TranSiam: Fusing Multimodal Visual Features Using Transformer for Medical Image Segmentation" **arXiv (2022)**.
+  [[paper](https://arxiv.org/pdf/2204.12185)]
+
+- **BTSwin-Unet:** Liang, Junjie and Yang, Cihui and Zhong, Jingting and Ye, Xiaoli.<br />
+  "BTSwin-Unet: 3D U-shaped Symmetrical Swin Transformer-based Network for Brain Tumor Segmentation with Self-supervised Pre-trainin" **Neural processing letters (2023)**.
+
 
 
 ### Mamba in medical Segmentation
