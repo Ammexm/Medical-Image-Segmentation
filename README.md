@@ -11,7 +11,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.27: Latest update of this paper list.
+- 2024.05.28: Latest update of this paper list.
 - 2023.05.29: The paper was online.
 ```
 ## Contents
@@ -28,11 +28,164 @@ If you find our work useful in your research, please consider citing:
 
 ## List of related papers and code
 ### Pre-Transformer Attention in Medical Segmentation
-- **Cell-DETR:** Prangemeier, Tim and Reich, Christoph and Koeppl, Heinz.<br />
-  "Attention-based transformers for instance segmentation of cells in microstructures" **IEEE BIBM (2020)**.
-  [[paper](https://arxiv.org/pdf/2102.11650)]
-  [[code](https://git.rwth-aachen.de/bcs/projects/cell-detr.git)]
+- **SW-3D-UNet:** Sun, Liyan and Ma, Wenao and Ding, Xinghao and Huang, Yue and Liang, Dong and Paisley, John.<br />
+  "A 3D Spatially Weighted Network for Segmentation of Brain Tissue From MRI" **IEEE Transactions on Medical Imaging (2019)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/8811612/)]
+
+- Bui, Toan Duc and Wang, Li and Chen, Jian and Lin, Weili and Li, Gang and Shen, Dinggang.<br />
+  "Multi-task Learning for Neonatal Brain Segmentation Using 3D Dense-Unet with Dense Attention Guided by Geodesic Distance" **MICCAI Workshop (2019)**.
+  [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7034948/)]
+
+- Noori, Mehrdad and Bahri, Ali and Mohammadi, Karim.<br />
+  "Attention-Guided Version of 2D UNet for Automatic Brain Tumor Segmentation" **ICCKE (2019)**.
+  [[paper](https://arxiv.org/pdf/2004.02009)]
+
+- Zhou, Chenhong and Ding, Changxing and Wang, Xinchao and Lu, Zhentai and Tao, Dacheng.<br />
+  "One-pass Multi-task Networks with Cross-task Guided Attention for Brain Tumor Segmentation" **IEEE Transactions on Image Processing (2020)**.
+  [[paper](https://arxiv.org/pdf/1906.01796)]
+  [[paper](https://github.com/chenhong-zhou/OM-Net)]
+
+- **UAGAN:** Yuan, Wenguang and Wei, Jia and Wang, Jiabing and Ma, Qianli and Tasdizen, Tolga.<br />
+  "Unified Attentional Generative Adversarial Network for Brain Tumor Segmentation From Multimodal Unpaired Images" **MICCAI (2019)**.
+  [[paper](https://arxiv.org/pdf/1907.03548)]
+
+- **DCAN:** Xu, Hai and Xie, Hongtao and Liu, Yizhi and Cheng, Chuandong and Niu, Chaoshi and Zhang, Yongdong.<br />
+  "Deep Cascaded Attention Network for Multi-task Brain Tumor Segmentation" **MICCAI (2019)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_47)]
+
+- **AGResU-Net:** Zhang, Jianxin and Jiang, Zongkang and Dong, Jing and Hou, Yaqing and Liu, Bin.<br />
+  "Attention Gate ResU-Net for automatic MRI brain tumor segmentation" **IEEE Access (2020)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/09046011.pdf)]
+
+- Akil, Mohamed and Saouli, Rachida and Kachouri, Rostom and others.<br />
+  "Fully automatic brain tumor segmentation with deep learning-based selective attention using overlapping patches and multi-class weighted cross-entropy" **Medical image analysis (2020)**.
+  [[paper](https://www.sciencedirect.com/science/article/am/pii/S1361841520300578)]
+  [[code](https://github.com/MostefaBen)]
+
+- Islam, Mobarakol and Vibashan, VS and Jose, V and Wijethilake, Navodini and Utkarsh, Uppal and Ren, Hongliang.<br />
+  "Brain Tumor Segmentation and Survival Prediction Using 3D Attention Unet" **International MICCAI Brainlesion Workshop (2019)**.
+  [[paper](https://arxiv.org/pdf/2104.00985)]
+
+- Zhou, Tongxue and Ruan, Su and Guo, Yu and Canu, St{\'e}phane.<br />
+  "A Multi-Modality Fusion Network Based on Attention Mechanism for Brain Tumor Segmentation" **ISBI (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9098392)]
+
+- **MASSL:** Chen, Shuai and Bortsova, Gerda and Garc{\'\i}a-Uceda Ju{\'a}rez, Antonio and Tulder, Gijs van and Bruijne, Marleen de.<br />
+  "Multi-Task Attention-Based Semi-Supervised Learning for Medical Image Segmentation" **MICCAI (2019)**.
+  [[paper](https://arxiv.org/pdf/1907.12303)]
+
+- **MASSL:** Zhou, Chenhong and Chen, Shengcong and Ding, Changxing and Tao, Dacheng.<br />
+  "Learning Contextual and Attentive Information for Brain Tumor Segmentation" **International MICCAI brainlesion workshop (2018)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-11726-9_44)]
+
+- **ARU-GD:** Maji, Dhiraj and Sigedar, Prarthana and Singh, Munendra.<br />
+  "Attention Res-UNet with Guided Decoder for semantic segmentation of brain tumors" **Biomedical Signal Processing and Control (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1746809421006741)]
+  [[code](https://github.com/dhirajmaji7/Attention-Res-UNet-with-Guided-Decoder-for-Semantic-Segmentation-of-Brain-tumors.git)]
+
+- **MIRAU-Net:** AboElenein, Nagwa M and Piao, Songhao and Noor, Alam and Ahmed, Pir Noman.<br />
+  "MIRAU-Net: An improved neural network based on U-Net for gliomas segmentation" **Signal Processing: Image Communication (2022)**.
+  [[paper](http://www.cister.isep.ipp.pt/docs/mirau_net__an_improved_neural_network_based_on_u_net_for_gliomas_segmentation_/1782/view.pdf)]
+
+- **MIRAU-Net:** Fang, Ying and Huang, He and Yang, Weiji and Xu, Xiaomei and Jiang, Weiwei and Lai, Xiaobo.<br />
+  "Nonlocal convolutional block attention module VNet for gliomas automatic segmentation" **International Journal of Imaging Systems and Technology (2022)**.
+  [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.22639)]
+
+- **AUNet:** Sun, Hui and Li, Cheng and Liu, Boqiang and Liu, Zaiyi and Wang, Meiyun and Zheng, Hairong and Feng, David Dagan and Wang, Shanshan.<br />
+  "AUNet: attention-guided dense-upsampling networks for breast mass segmentation in whole mammograms" **Physics in Medicine & Biology (2020)**.
+  [[paper](https://arxiv.org/pdf/1810.10151)]
+
+- Lei, Baiying and Huang, Shan and Li, Hang and Li, Ran and Bian, Cheng and Chou, Yi-Hong and Qin, Jing and Zhou, Peng and Gong, Xuehao and Cheng, Jie-Zhi.<br />
+  "Self-co-attention neural network for anatomy segmentation in whole breast ultrasound" **Medical image analysis (2020)**.
+  [[paper](https://drive.google.com/file/d/1A12NIpaD4_MEpCN5H94tD_UWBhYyr7YX/view)]
   
+- **MSGRAP:** Lee, Haeyun and Park, Jinhyoung and Hwang, Jae Youn.<br />
+  "Channel attention module with multiscale grid average pooling for breast cancer segmentation in an ultrasound image" **IEEE transactions on ultrasonics, ferroelectrics, and frequency control (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/8988165/)]
+
+- **RDAU-NET:** Zhuang, Zhemin and Li, Nan and Joseph Raj, Alex Noel and Mahesh, Vijayalakshmi GV and Qiu, Shunmin.<br />
+  "An RDAU-NET model for lesion segmentation in breast ultrasound images" **IPloS one (2019)**.
+  [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0221535&type=printable)]
+ 
+- Vakanski, Aleksandar and Xian, Min and Freer, Phoebe E.<br />
+  "Attention-enriched deep learning model for breast tumor segmentation in ultrasound images" **Ultrasound in medicine & biology (2020)**.
+  [[paper](https://arxiv.org/abs/1910.08978)]
+
+- **RCA-IUnet:** Punn, Narinder Singh and Agarwal, Sonali.<br />
+  "RCA-IUnet: a residual cross-spatial attention-guided inception U-Net model for tumor segmentation in breast ultrasound imaging" **Machine Vision and Applications (2022)**.
+  [[paper](https://arxiv.org/pdf/2108.02508)]
+
+- **K-Net:** Ge, Rongjun and Yang, Guanyu and Chen, Yang and Luo, Limin and Feng, Cheng and Ma, Hong and Ren, Junyi and Li, Shuo.<br />
+  "K-Net: Integrate Left Ventricle Segmentation and Direct Quantification of Paired Echo Sequence" **IEEE transactions on medical imaging (2019)**.
+  [[paper](http://www.digitalimaginggroup.ca/members/Shuo/K-Net.pdf)]
+
+- **CAB U-Net:** Ding, Xiaofeng and Peng, Yaxin and Shen, Chaomin and Zeng, Tieyong.<br />
+  "CAB U-Net: An end-to-end Category Attention Boosting algorithm for segmentation" **Computerized Medical Imaging and Graphics (2020)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0895611120300677)]
+
+- Li, Lei and Weng, Xin and Schnabel, Julia A and Zhuang, Xiahai.<br />
+  "Joint left atrial segmentation and scar quantification based on a DNN with spatial encoding and shape attention" **MICCAI (2020)**.
+  [[paper](https://arxiv.org/pdf/2006.13011)]
+
+- **PLANet:** Liu, Fei and Wang, Kun and Liu, Dan and Yang, Xin and Tian, Jie.<br />
+  "Deep pyramid local attention neural network for cardiac structure segmentation in two-dimensional echocardiography" **Medical Image Analysis (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841520302371)]
+
+- Guo, Libao and Lei, Baiying and Chen, Weiling and Du, Jie and Frangi, Alejandro F and Qin, Jing and Zhao, Cheng and Shi, Pengpeng and Xia, Bei and Wang, Tianfu.<br />
+  "Dual attention enhancement feature fusion network for segmentation and quantitative analysis of paediatric echocardiography" **Medical Image Analysis (2021)**.
+  [[paper](https://eprints.whiterose.ac.uk/178623/1/Dual%20Attention%20Enhancement%20Feature%20Fusion%20Network%20for%20Segmentation%20and%20Quantitative%20Analysis%20of%20Paediatric%20Echocardiography.pdf)]
+  [[paper](https://github.com/end-of-the-century/Cardiac)]
+  
+- Ahn, Shawn S and Ta, Kevinminh and Thorn, Stephanie and Langdon, Jonathan and Sinusas, Albert J and Duncan, James S.<br />
+  "Dual attention enhancement feature fusion network for segmentation and quantitative analysis of paediatric echocardiography" **MICCAI (2021)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_33)]
+
+- Tong, Qianqian and Li, Caizi and Si, Weixin and Liao, Xiangyun and Tong, Yaliang and Yuan, Zhiyong and Heng, Pheng Ann.<br />
+  "RIANet: Recurrent interleaved attention network for cardiac MRI segmentation" **Computers in biology and medicine (2019)**.
+  [[paper](https://drive.google.com/file/d/1xQJRSmAm-CNGRzllSstQXsZmVwyI2CCs/view)]
+
+- **HAANet:** Li, Caizi and Tong, Qianqian and Liao, Xiangyun and Si, Weixin and Sun, Yinzi and Wang, Qiong and Heng, Pheng-Ann.<br />
+  "Attention Based Hierarchical Aggregation Network for 3D Left Atrial Segmentation" **International Workshop on Statistical Atlases and Computational Models of the Heart (2018)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-12029-0_28)]
+
+- Liu, Jinping and Liu, Hui and Gong, Subo and Tang, Zhaohui and Xie, Yongfang and Yin, Huazhan and Niyoyita, Jean Paul.<br />
+  "Automated cardiac segmentation of cross-modal medical images using unsupervised multi-domain adaptation and spatial neural attention structure" **Medical Image Analysis (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S136184152100181X)]
+
+- Wang, Kai-Ni and Yang, Xin and Miao, Juzheng and Li, Lei and Yao, Jing and Zhou, Ping and Xue, Wufeng and Zhou, Guang-Quan and Zhuang, Xiahai and Ni, Dong.<br />
+  "AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images" **Medical Image Analysis (2022)**.
+  [[paper](https://arxiv.org/pdf/2201.05344)]
+  [[code](https://github.com/soleilssss/AWSnet/tree/master)]
+
+- Lu, Chenggang and Guo, Zhitao and Yuan, Jinli and Xia, Kewen and Yu, Hengyong.<br />
+  "Fine-grained calibrated double-attention convolutional network for left ventricular segmentation" **Physics in Medicine & Biology (2022)**.
+  [[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ac5570/meta)]
+
+- Xie, Feng and Huang, Zheng and Shi, Zhengjin and Wang, Tianyu and Song, Guoli and Wang, Bolun and Liu, Zihong.<br />
+  "DUDA-Net: a double U-shaped dilated attention network for automatic infection area segmentation in COVID-19 lung CT images" **International Journal of Computer Assisted Radiology and Surgery (2021)**.
+  [[paper](https://link.springer.com/content/pdf/10.1007/s11548-021-02418-w.pdf)]
+
+- Chen, Xiaocong and Yao, Lina and Zhang, Yu.<br />
+  "Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19 Chest CT Images" **arXiv (2020)**.
+  [[paper](https://arxiv.org/pdf/2004.05645)]
+
+- Zhang, Ju and Yu, Lunduan and Chen, Decheng and Pan, Weidong and Shi, Chao and Niu, Yan and Yao, Xinwei and Xu, Xiaobin and Cheng, Yun.<br />
+  "Dense GAN and multi-layer attention based lesion segmentation method for COVID-19 CT images" **Biomedical Signal Processing and Control (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1746809421004985)]
+
+- Karthik, R and Menaka, R and Hariharan, M and Won, Daehan.<br />
+  "Contour-enhanced Attention CNN for CT-based COVID-19 Segmentation" **Pattern Recognition (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S003132032200019X)]
+
+- Hu, Haigen and Shen, Leizhao and Guan, Qiu and Li, Xiaoxin and Zhou, Qianwei and Ruan, Su.<br />
+  "Deep co-supervision and attention fusion strategy for automatic COVID-19 lung infection segmentation on CT images" **Pattern Recognition (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321006282)]
+
+- **CHS-Net:** Punn, Narinder Singh and Agarwal, Sonali.<br />
+  "CHS-Net: A Deep Learning Approach for Hierarchical Segmentation of COVID-19 via CT Images" **Neural Processing Letters (2022)**.
+  [[paper](https://link.springer.com/content/pdf/10.1007/s11063-022-10785-x.pdf)]
+
+
 
 
 
@@ -257,7 +410,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://doi.org/10.1371/journal.pone.0262689)]
 
 - **RTN:** Huang, Shiqi and Li, Jianan and Xiao, Yuze and Shen, Ning and Xu, Tingfa.<br />
-  "RTNet: Relation transformer network for diabetic retinopathy multi-lesion segmentation" **IEEE Trans Med Imaging (2022)**.
+  "RTNet: Relation transformer network for diabetic retinopathy multi-lesion segmentation" **IEEE Transactions on Medical Imaging (2022)**.
   [[paper](https://arxiv.org/pdf/2201.11037)]
 
 - **MTPA_Unet:** Jiang, Yun and Liang, Jing and Cheng, Tongtong and Lin, Xin and Zhang, Yuan and Dong, Jinkun.<br />
@@ -319,7 +472,7 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/nikhilroxtomar/TransResUNet)]
 
 - **LViT:** Li, Zihan and Li, Yunxiang and Li, Qingde and Wang, Puyang and Guo, Dazhou and Lu, Le and Jin, Dakai and Zhang, You and Hong, Qingqi.<br />
-  "LViT: Language meets Vision Transformer in Medical Image Segmentation" **IEEE Trans Med Imaging (2023)**.
+  "LViT: Language meets Vision Transformer in Medical Image Segmentation" **IEEE Transactions on Medical Imaging (2023)**.
   [[paper](https://arxiv.org/pdf/2206.14718)]
   [[code](https://github.com/HUANGLIZI/LViT)]
 
@@ -370,7 +523,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2106.10637)]
 
 - **UNETR++:** Shaker, Abdelrahman M and Maaz, Muhammad and Rasheed, Hanoona and Khan, Salman and Yang, Ming-Hsuan and Khan, Fahad Shahbaz.<br />
-  "UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation" **IEEE Trans Med Imaging (2024)**.
+  "UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation" **IEEE Transactions on Medical Imaging (2024)**.
   [[paper](https://ieeexplore.ieee.org/iel7/42/4359023/10526382.pdf)]
   [[code](https://tinyurl.com/2p87x5xn)]
   
@@ -439,7 +592,7 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/Omid-Nejati/BEFUnet)]
 
 - **ScribFormer:** Li, Zihan and Zheng, Yuan and Shan, Dandan and Yang, Shuzhou and Li, Qingde and Wang, Beizhan and Zhang, Yuanting and Hong, Qingqi and Shen, Dinggang.<br />
-  "ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation" **IEEE Trans Med Imaging (2024)**.
+  "ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation" **IEEE Transactions on Medical Imaging (2024)**.
   [[paper](https://arxiv.org/html/2402.02029v1)]
   [[code](https://github.com/HUANGLIZI/ScribFormer)]
 
