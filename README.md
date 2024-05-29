@@ -546,7 +546,139 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://link.springer.com/content/pdf/10.1007/s00371-021-02075-9.pdf)]
   
 
+- Azad, Reza and Heidari, Moein and Wu, Yuli and Merhof, Dorit.<br />
+  "Contextual attention network: Transformer meets u-net" **International Workshop on Machine Learning in Medical Imaging (2022)**.
+  [[paper](https://arxiv.org/pdf/2203.01932)]
+  [[code]()]
 
+- Zhang, Mo and Dong, Bin and Li, Quanzheng.<br />
+  "JOINT ATTENTION FOR MEDICAL IMAGE SEGMENTATION" **ISBI (2022)**.
+  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Rahman_Medical_Image_Segmentation_via_Cascaded_Attention_Decoding_WACV_2023_paper.pdf)]
+  
+- **CASCADE:** Rahman, Md Mostafijur and Marculescu, Radu.<br />
+  "Medical Image Segmentation via Cascaded Attention Decoding" **Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (2023)**.
+  [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Rahman_Medical_Image_Segmentation_via_Cascaded_Attention_Decoding_WACV_2023_paper.pdf)]
+  
+- **AFTer-UNet:** Yan, Xiangyi and Tang, Hao and Sun, Shanlin and Ma, Haoyu and Kong, Deying and Xie, Xiaohui.<br />
+  "After-unet: Axial fusion transformer unet for medical image segmentation" **Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (2022)**.
+  [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Yan_AFTer-UNet_Axial_Fusion_Transformer_UNet_for_Medical_Image_Segmentation_WACV_2022_paper.pdf)]
+  
+- **DAR-UNet:** Yao, Kai and Su, Zixian and Huang, Kaizhu and Yang, Xi and Sun, Jie and Hussain, Amir and Coenen, Frans.<br />
+  "A novel 3D unsupervised domain adaptation framework for cross-modality medical image segmentation" **IEEE JBHI (2022)**.
+  [[paper](https://napier-repository.worktribe.com/preview/2885434/IEEE_JBHI.pdf)]
+  [[code](https://github.com/Kaiseem/DAR-UNet)]
+  
+- Sinha, Ashish and Dolz, Jose.<br />
+  "Multi-Scale Self-Guided Attention for Medical Image Segmentation" **IEEE journal of biomedical and health informatics (2020)**.
+  [[paper](https://arxiv.org/pdf/1906.02849)]
+  [[code](https://github.com/sinAshish/Multi-Scale-Attention)]
+  
+- An, Feng-Ping and Liu, Jun-e.<br />
+  "Medical image segmentation algorithm based on multilayer boundary perception-self attention deep learning model" **Multimedia Tools and Applications (2021)**.
+  [[paper](https://link.springer.com/article/10.1007/s11042-021-10515-w)]
+  
+- Mostayed, Ahmed and Wee, William G and Zhou, Xuefu.<br />
+  "Content-Adaptive U-Net Architecture for Medical Image Segmentation" **CSCI (2019)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9070842/)]
+  
+- **FCANet:** Cheng, Junlong and Tian, Shengwei and Yu, Long and Lu, Hongchun and Lv, Xiaoyi.<br />
+  "Fully convolutional attention network for biomedical image segmentation" **Artificial Intelligence in Medicine (2020)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0933365720302220)]
+  [[code](https://github.com/luhongchun/FCANet)]
+  
+- **SA-Net:** Hu, Jingfei and Wang, Hua and Wang, Jie and Wang, Yunqi and He, Fang and Zhang, Jicong.<br />
+  "SA-Net: A scale-attention network for medical image segmentation" **PloS one (2021)**.
+  [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247388)]
+  
+- **MA-Unet:** Cai, Yutong and Wang, Yong.<br />
+  "MA-Unet: An improved version of Unet based on multi-scale and attention mechanism for medical image segmentation" **ECNCT (2022)**.
+  [[paper](https://arxiv.org/pdf/2012.10952)]
+  [[code]()]
+  
+- Fang, Wenhao and Han, Xian-hua.<br />
+  "Spatial and Channel Attention Modulated Network for Medical Image Segmentation" **Proceedings of the Asian Conference on Computer Vision (2020)**.
+  [[paper](https://openaccess.thecvf.com/content/ACCV2020W/MLCSA/papers/Fang_Spatial_and_Channel_Attention_Modulated_Network_for_Medical_Image_Segmentation_ACCVW_2020_paper.pdf)]  
+
+- Qin, Yao and Kamnitsas, Konstantinos and Ancha, Siddharth and Nanavati, Jay and Cottrell, Garrison and Criminisi, Antonio and Nori, Aditya.<br />
+  "Autofocus Layer for Semantic Segmentation" **MICCAI (2018)**.
+  [[paper](https://arxiv.org/pdf/1805.08403)]
+  [[code](https://github.com/yaq007/Autofocus-Layer)]
+  
+- **RefineU-Net:** Lin, Dongyun and Li, Yiqun and Nwe, Tin Lay and Dong, Sheng and Oo, Zaw Min.<br />
+  "RefineU-Net: Improved U-Net with Progressive Global Feedbacks and Residual Attention Guided Local Refinement for Medical Image Segmentation" **Pattern Recognition Letters (2022)**.
+  [[paper](https://oar.a-star.edu.sg/storage/5/5g2z7jorxg/refineu-net-prl-unmarked.pdf)]
+  
+- **TA-Net:** Li, Yang and Yang, Jun and Ni, Jiajia and Elazab, Ahmed and Wu, Jianhuang.<br />
+  "TA-Net: Triple attention network for medical image segmentation" **Computers in Biology and Medicine (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0010482521006302)]
+  
+- **SCA-Net:** Shan, Tong and Yan, Jiayong.<br />
+  "SCA-Net: A Spatial and Channel Attention Network for Medical Image Segmentation" **IEEE Access (2021)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9634020/)]
+  
+- **R2AU-Net:** Zuo, Qiang and Chen, Songyu and Wang, Zhifang.<br />
+  "R2AU-Net: Attention Recurrent Residual Convolutional Neural Network for Multimodal Medical Image Segmentation" **Security and Communication Networks (2021)**.
+  [[paper](https://www.hindawi.com/journals/scn/2021/6625688/)]
+  
+- **HANet:** Ding, Fei and Yang, Gang and Wu, Jun and Ding, Dayong and Xv, Jie and Cheng, Gangwei and Li, Xirong.<br />
+  "High-Order Attention Networks for Medical Image Segmentation" **MICCAI (2020)**.
+  [[paper](https://www.researchgate.net/profile/Gang-Yang-21/publication/346015624_High-Order_Attention_Networks_for_Medical_Image_Segmentation/links/6036408392851c4ed591867e/High-Order-Attention-Networks-for-Medical-Image-Segmentation.pdf)]
+  
+- **TSMAN:** Min, Shaobo and Chen, Xuejin and Zha, Zheng-Jun and Wu, Feng and Zhang, Yongdong.<br />
+  "A Two-Stream Mutual Attention Network for Semi-Supervised Biomedical Segmentation with Noisy Labels" **AAAI (2019)**.
+  [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4381)]
+  
+- **Et-net:** Zhang, Zhijie and Fu, Huazhu and Dai, Hang and Shen, Jianbing and Pang, Yanwei and Shao, Ling.<br />
+  "Et-net: A generic edge-attention guidance network for medical image segmentation" **MICCAI (2019)**.
+  [[paper](https://arxiv.org/pdf/1907.10936)]
+  [[code](https://github.com/ZzzJzzZ/ETNet)]
+  
+- Ding, Fei and Yang, Gang and Liu, Jinlu and Wu, Jun and Ding, Dayong and Xv, Jie and Cheng, Gangwei and Li, Xirong.<br />
+  "Hierarchical Attention Networks for Medical Image Segmentation" **arXiv (2019)**.
+  [[paper](https://arxiv.org/pdf/1911.08777)]
+  
+- **Focusnet:** Kaul, Chaitanya and Manandhar, Suresh and Pears, Nick.<br />
+  "Focusnet: An Attention-Based Fully Convolutional Network for Medical Image Segmentation" **ISBI (2019)**.
+  [[paper](https://arxiv.org/pdf/1902.03091)]
+  
+- Wang, Guotai and Shapey, Jonathan and Li, Wenqi and Dorent, Reuben and Dimitriadis, Alexis and Bisdas, Sotirios and Paddick, Ian and Bradford, Robert and Zhang, Shaoting and Ourselin, S{\'e}bastien and others.<br />
+  "Automatic Segmentation of Vestibular Schwannoma from T2-Weighted MRI by Deep Spatial Attention with Hardness-Weighted Loss" **MICCAI (2019)**.
+  [[paper](https://arxiv.org/pdf/1906.03906)]
+  
+- **DAT++:** Xia, Zhuofan and Pan, Xuran and Song, Shiji and Li, Li Erran and Huang, Gao.<br />
+  "DAT++: Spatially Dynamic Vision Transformer with Deformable Attention" **arXiv (2023)**.
+  [[paper](https://arxiv.org/pdf/2309.01430)]
+  [[code](https://github.com/LeapLabTHU/DAT)]
+  
+- **AgileFormer:** Qiu, Peijie and Yang, Jin and Kumar, Sayantan and Ghosh, Soumyendu Sekhar and Sotiras, Aristeidis.<br />
+  "AgileFormer: Spatially Agile Transformer UNet for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2404.00122)]
+  [[code](https://github.com/sotiraslab/AgileFormer)]
+  
+- **Attresdu-net:** Khan, Akib Mohammed and Ashrafee, Alif and Khan, Fahim Shahriar and Hasan, Md Bakhtiar and Kabir, Md Hasanul.<br />
+  "Attresdu-net: Medical image segmentation using attention-based residual double u-net" **IJCNN (2023)**.
+  [[paper](https://arxiv.org/pdf/2306.14255)]
+  [[code](https://github.com/fkhan98/Medical-Image-Segmentation-with-Attention-based-Residual-Double-U-Net)]
+  
+- **BAAF:** Chen, Gongping and Zhao, Lei and Yin, Xiaotao and Cui, Liang and Zhang, Jianxun and Dai, Yu.<br />
+  "BAAF: A Benchmark Attention Adaptive Framework for Medical Ultrasound Image Segmentation Tasks" **arXiv (2023)**.
+  [[paper](https://arxiv.org/pdf/2310.00919)]
+  [[code](https://github.com/CGPxy/BAAF)]
+  
+- **CPCA:** Huang, Hejun and Chen, Zuguo and Zou, Ying and Lu, Ming and Chen, Chaoyang.<br />
+  "Channel prior convolutional attention for medical image segmentation" **arXiv (2023)**.
+  [[paper](https://arxiv.org/pdf/2306.05196)]
+  [[code](https://github.com/Cuthbert-Huang/CPCANet)]
+  
+- **MCANet:** Shao, Hao and Zeng, Quansheng and Hou, Qibin and Yang, Jufeng.<br />
+  "MCANet: Medical Image Segmentation with Multi-Scale Cross-Axis Attention" **arXiv (2023)**.
+  [[paper](https://arxiv.org/pdf/2312.08866)]
+  [[code](https://github.com/haoshao-nku/medical_seg.git)]
+  
+- **DCA:** Ates, Gorkem Can and Mohan, Prasoon and Celik, Emrah.<br />
+  "Dual cross-attention for medical image segmentation" **Engineering Applications of Artificial Intelligence (2023)**.
+  [[paper](https://arxiv.org/pdf/2303.17696)]
+  [[code](https://github.com/gorkemcanates/Dual-Cross-Attention)]
 
 
 ### Transformer in medical Segmentation
