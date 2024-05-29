@@ -11,7 +11,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.28: Latest update of this paper list.
+- 2024.05.29: Latest update of this paper list.
 - 2023.05.29: The paper was online.
 ```
 ## Contents
@@ -116,7 +116,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2108.02508)]
 
 - **K-Net:** Ge, Rongjun and Yang, Guanyu and Chen, Yang and Luo, Limin and Feng, Cheng and Ma, Hong and Ren, Junyi and Li, Shuo.<br />
-  "K-Net: Integrate Left Ventricle Segmentation and Direct Quantification of Paired Echo Sequence" **IEEE transactions on medical imaging (2019)**.
+  "K-Net: Integrate Left Ventricle Segmentation and Direct Quantification of Paired Echo Sequence" **IEEE Transactions on Medical Imaging (2019)**.
   [[paper](http://www.digitalimaginggroup.ca/members/Shuo/K-Net.pdf)]
 
 - **CAB U-Net:** Ding, Xiaofeng and Peng, Yaxin and Shen, Chaomin and Zeng, Tieyong.<br />
@@ -185,6 +185,366 @@ If you find our work useful in your research, please consider citing:
   "CHS-Net: A Deep Learning Approach for Hierarchical Segmentation of COVID-19 via CT Images" **Neural Processing Letters (2022)**.
   [[paper](https://link.springer.com/content/pdf/10.1007/s11063-022-10785-x.pdf)]
 
+- **CHS-Net:** Punn, Narinder Singh and Agarwal, Sonali.<br />
+  "CHS-Net: A Deep Learning Approach for Hierarchical Segmentation of COVID-19 via CT Images" **Neural Processing Letters (2022)**.
+  [[paper](https://link.springer.com/content/pdf/10.1007/s11063-022-10785-x.pdf)]
+
+- Jia, Zijing and Wang, Chaoli and Sun, Zhanquan and Geng, Hongquan and Fu, Hongliang.<br />
+  "A New Segmentation Network of Pediatric Renography Based on Attention Mechanism" **Proceedings of 2021 Chinese Intelligent Systems Conference (2022)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-16-6320-8_17)]
+
+- **Attention-based V-Net:** Hu, Yucheng and Deng, Han and Zhou, Yang and Chen, Yimin and Hao, Zhou and Yang, Wanqi.<br />
+  "Automatic Kidney and Tumor Segmentation with Attention-based V-Net" **University of Minnesota Libraries Publishing (2019)**.
+  [[paper](https://core.ac.uk/download/pdf/231905017.pdf)]
+
+- Myronenko, Andriy and Hatamizadeh, Ali.<br />
+  "3D Kidneys and Kidney Tumor Semantic Segmentation using Boundary-Aware Networks" **arXiv (2019)**.
+  [[paper](https://arxiv.org/pdf/1909.06684)]
+
+- **DGC:** Xuan, Ping and Cui, Hui and Zhang, Hongda and Zhang, Tiangang and Wang, Linlin and Nakaguchi, Toshiya and Duh, Henry BL.<br />
+  "Dynamic graph convolutional autoencoder with node-attribute-wise attention for kidney and tumor segmentation from CT volumes" **UKnowledge-Based Systems (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705121006225)]
+
+- **Hyper Vision Net:** Sabarinathan, D and Parisa Beham, M and Mansoor Roomi, SM.<br />
+  "Hyper Vision Net: Kidney Tumor Segmentation Using Coordinate Convolutional Layer and Attention Unit" **NCVPRIPG (2019)**.
+  [[paper](https://arxiv.org/pdf/1908.03339)]
+
+  Kuang, Haopeng and Yang, Dingkang and Wang, Shunli and Wang, Xiaoying and Zhang, Lihua.<br />
+  "Towards Simultaneous Segmentation of Liver Tumors and Intrahepatic Vessels via Cross-attention Mechanism" **ICASSP (2023)**.
+  [[paper](https://arxiv.org/pdf/2302.09785)]
+
+- **RA-UNet:** Jin, Qiangguo and Meng, Zhaopeng and Sun, Changming and Cui, Hui and Su, Ran.<br />
+  "RA-UNet: A hybrid deep attention-aware network to extract liver and tumor in CT scans" **Frontiers in Bioengineering and Biotechnology (2020)**.
+  [[paper](https://www.frontiersin.org/articles/10.3389/fbioe.2020.605132/full)]
+
+- **Attention U-Net++:** Li, Chen and Tan, Yusong and Chen, Wei and Luo, Xin and Gao, Yuanming and Jia, Xiaogang and Wang, Zhiying.<br />
+  "Attention unet++: A nested attention-aware u-net for liver ct image segmentation" **ICIP (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9190761/)]
+
+- Haselji{\'c}, Hana and Chatterjee, Soumick and Frysch, Robert and Kulvait, Vojt{\v{e}}ch and Semshchikov, Vladimir and Hensen, Bennet and Wacker, Frank and Br{\"u}sch, Inga and Werncke, Thomas and Speck, Oliver and others.<br />
+  "Liver Segmentation using Turbolift Learning for CT and Cone-beam C-arm Perfusion Imaging" **Computers in Biology and Medicine (2023)**.
+  [[paper](https://arxiv.org/pdf/2207.10167)]
+  [[code](https://github.com/soumickmj/Turbolift)]
+  
+- Chen, Xueying and Zhang, Rong and Yan, Pingkun.<br />
+  "Feature Fusion Encoder Decoder Network for Automatic Liver Lesion Segmentation" **ISBI (2019)**.
+  [[paper](https://arxiv.org/pdf/1903.11834)]
+
+- **AHCNet:** Jiang, Huiyan and Shi, Tianyu and Bai, Zhiqi and Huang, Liangliang.<br />
+  "AHCNet: An Application of Attention Mechanism and Hybrid Connection for Liver Tumor Segmentation in CT Volumes" **IEEE Access (2019)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/08651448.pdf)]
+
+- **CAAGP:** Zhang, Chi and Lu, Jingben and Yang, Luxi and Li, Chunguo.<br />
+  "CAAGP: Rethinking channel attention with adaptive global pooling for liver tumor segmentation" **Computers in Biology and Medicine (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0010482521006697)]
+  
+- **ResCEAttUnet:** Bi, Rongrong and Ji, Chunlei and Yang, Zhipeng and Qiao, Meixia and Lv, Peiqing and Wang, Haiying.<br />
+  "Residual based attention-Unet combing DAC and RMP modules for automatic liver tumor segmentation in CT" **Mathematical Biosciences and Engineering (2022)**.
+  [[paper](https://www.aimspress.com/aimspress-data/mbe/2022/5/PDF/mbe-19-05-219.pdf)]
+  
+- **SAA-Net:** Zhang, Chi and Lu, Jingben and Hua, Qianqian and Li, Chunguo and Wang, Pengwei.<br />
+  "SAA-Net: U-shaped network with Scale-Axis-Attention for liver tumor segmentation" **Biomedical Signal Processing and Control (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1746809421010570)]
+  
+- **MA-Net:** Fan, Tongle and Wang, Guanglei and Li, Yan and Wang, Hongrui.<br />
+  "MA-Net: A Multi-Scale Attention Network for Liver and Tumor Segmentation" **IEEE Access (2020)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/8948470/09201310.pdf)]
+  
+- **LVSNet:** Yan, Qingsen and Wang, Bo and Zhang, Wei and Luo, Chuan and Xu, Wei and Xu, Zhengqing and Zhang, Yanning and Shi, Qinfeng and Zhang, Liang and You, Zheng.<br />
+  "Attention-Guided Deep Neural Network With Multi-Scale Feature Fusion for Liver Vessel Segmentation" **IEEE Journal of Biomedical and Health Informatics (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9277536/)]
+  
+- Qin, Yulei and Zheng, Hao and Gu, Yun and Huang, Xiaolin and Yang, Jie and Wang, Lihui and Zhu, Yue-Min.<br />
+  "Learning bronchiole-sensitive airway segmentation CNNs by feature recalibration and attention distillation" **MICCAI (2020)**.
+  [[paper](https://hal.science/hal-03435078/file/QinYulei_Miccai2020.pdf)]
+  
+- Tan, Wenjun and Liu, Pan and Li, Xiaoshuo and Xu, Shaoxun and Chen, Yufei and Yang, Jinzhu.<br />
+  "Segmentation of lung airways based on deep learning methods" **IET Image Processing (2022)**.
+  [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ipr2.12423)]
+  
+- **SD-UNet:** Yin, Shuangcai and Deng, Hongmin and Xu, Zelin and Zhu, Qilin and Cheng, Junfeng.<br />
+  "SD-UNet: A Novel Segmentation Framework for CT Images of Lung Infections" **Electronics (2022)**.
+  [[paper](https://www.mdpi.com/2079-9292/11/1/130)]
+  
+- **XLSor:** Tang, You-Bao and Tang, Yu-Xing and Xiao, Jing and Summers, Ronald M.<br />
+  "XLSor: A Robust and Accurate Lung Segmentor on Chest X-Rays Using Criss-Cross Attention and Customized Radiorealistic Abnormalities Generation" **International Conference on Medical Imaging with Deep Learning (2019)**.
+  [[paper](http://proceedings.mlr.press/v102/tang19a/tang19a.pdf)]
+  [[code](https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor)]
+  
+- **Attention U-Net:** Oktay, Ozan and Schlemper, Jo and Folgoc, Loic Le and Lee, Matthew and Heinrich, Mattias and Misawa, Kazunari and Mori, Kensaku and McDonagh, Steven and Hammerla, Nils Y and Kainz, Bernhard and others.<br />
+  "Attention U-Net: Learning Where to Look for the Pancreas" **MIDL (2018)**.
+  [[paper](https://arxiv.org/abs/1804.03999)]
+  [[code]( https://github.com/ozan-oktay/Attention-Gated-Networks)]
+ 
+- **M3Net:** Qu, Taiping and Wang, Xiheng and Fang, Chaowei and Mao, Li and Li, Juan and Li, Ping and Qu, Jinrong and Li, Xiuli and Xue, Huadan and Yu, Yizhou and others.<br />
+  "M3Net: A multi-scale multi-view framework for multi-phase pancreas segmentation based on cross-phase non-local attention" **Medical image analysis (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841521002772)]
+
+- **PraNet:** Fan, Deng-Ping and Ji, Ge-Peng and Zhou, Tao and Chen, Geng and Fu, Huazhu and Shen, Jianbing and Shao, Ling.<br />
+  "PraNet: Parallel Reverse Attention Network for Polyp Segmentation" **MICCAI (2020)**.
+  [[paper](https://arxiv.org/pdf/2006.11392)]
+  [[code](https://github.com/DengPingFan/PraNet)]
+  
+- **DDANet:** Tomar, Nikhil Kumar and Jha, Debesh and Ali, Sharib and Johansen, H{\aa}vard D and Johansen, Dag and Riegler, Michael A and Halvorsen, P{\aa}l}.<br />
+  "DDANet: Dual decoder attention network for automatic polyp segmentation" **ICPR (2021)**.
+  [[paper](https://arxiv.org/pdf/2012.15245)]
+  [[code](https://github.com/nikhilroxtomar/DDANet)]
+  
+- Wei, Jun and Hu, Yiwen and Zhang, Ruimao and Li, Zhen and Zhou, S Kevin and Cui, Shuguang.<br />
+  "Shallow attention network for polyp segmentation" **MICCAI (2021)**.
+  [[paper](https://arxiv.org/pdf/2108.00882)]
+  
+- **UACANet:** Kim, Taehun and Lee, Hyemin and Kim, Daijin.<br />
+  "UACANet: Uncertainty Augmented Context Attention for Polyp Segmentation" **Proceedings of the 29th ACM International Conference on Multimedia (2021)**.
+  [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475375)]
+  [[code](https://github.com/plemeri/UACANet)]
+  
+- **Focus U-Net:** Yeung, Michael and Sala, Evis and Sch{\"o}nlieb, Carola-Bibiane and Rundo, Leonardo.<br />
+  "Focus U-Net: A novel dual attention-gated CNN for polyp segmentation during colonoscopy" **Computers in biology and medicine (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0010482521006090)]
+
+- **sECANet:** Yang, Kun and Chang, Shilong and Tian, Zhaoxing and Gao, Cong and Du, Yu and Zhang, Xiongfeng and Liu, Kun and Meng, Jie and Xue, Linyan.<br />
+  "Automatic polyp detection and segmentation using shuffle efficient channel attention network" **Alexandria Engineering Journal (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1110016821003148)]
+  [[code]()]
+  
+- Lei, Yang and Dong, Xue and Tian, Zhen and Liu, Yingzi and Tian, Sibo and Wang, Tonghe and Jiang, Xiaojun and Patel, Pretesh and Jani, Ashesh B and Mao, Hui and others.<br />
+  "CT Prostate Segmentation Based on Synthetic MRI-aided Deep Attention Fully Convolution Network" **Medical physics (2020)**.
+  [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13933)]
+  
+- Xu, Xuanang and Lian, Chunfeng and Wang, Shuai and Wang, Andrew and Royce, Trevor and Chen, Ronald and Lian, Jun and Shen, Dinggang.<br />
+  "Asymmetrical multi-task attention U-net for the segmentation of prostate bed in CT image" **MICCAI (2020)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_46)]
+  [[code](https://github.com/superxuang/amta-net)]
+  
+- Wang, Yi and Dou, Haoran and Hu, Xiaowei and Zhu, Lei and Yang, Xin and Xu, Ming and Qin, Jing and Heng, Pheng-Ann and Wang, Tianfu and Ni, Dong.<br />
+  "Deep Attentive Features for Prostate Segmentation in 3D Transrectal Ultrasound" **IEEE Transactions on Medical Imaging (2019)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/8698868/)]
+  [[code](https://github.com/wulalago/DAF3D)]
+  
+- Liu, Yongkai and Yang, Guang and Mirak, Sohrab Afshari and Hosseiny, Melina and Azadikhah, Afshin and Zhong, Xinran and Reiter, Robert E and Lee, Yeejin and Raman, Steven S and Sung, Kyunghyun}.<br />
+  "Automatic Prostate Zonal Segmentation Using Fully Convolutional Network With Feature Pyramid Attention" **IEEE Access (2019)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/8600701/08894451.pdf)]
+  [[code](https://github.com/ykl-ucla/prostate_zonal_seg)]
+  
+- Kearney, Vasant and Chan, Jason W and Wang, Tianqi and Perry, Alan and Yom, Sue S and Solberg, Timothy D.<br />
+  "Attention-enabled 3D boosted convolutional neural networks for semantic CT segmentation using deep supervision" **Physics in Medicine & Biology (2019)**.
+  [[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ab2818/meta)]
+
+- **HD-Net:** Jia, Haozhe and Song, Yang and Huang, Heng and Cai, Weidong and Xia, Yong.<br />
+  "HD-Net: Hybrid Discriminative Network for Prostate Segmentation in MR Images" **MICCAI (2019)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_13)]
+
+- Li, Jingyuan and Liao, Guanqun and Sun, Wenfang and Sun, Ji and Sheng, Tai and Zhu, Kaibin and von Deneen, Karen M and Zhang, Yi.<br />
+  "A 2.5 D semantic segmentation of the pancreas using Attention guided Dual Context embedded U-Net" **Neurocomputing (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222000650)]
+
+- **ProstAttention-Net:** Duran, Audrey and Dussert, Gaspard and Rouvi{\'e}re, Olivier and Jaouen, Tristan and Jodoin, Pierre-Marc and Lartizien, Carole.<br />
+  "ProstAttention-Net: a deep attention model for prostate cancer segmentation by aggressiveness in MRI scans" **Medical Image Analysis (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/am/pii/S1361841521003923)]
+  
+- **CS-Net:** Mou, Lei and Zhao, Yitian and Chen, Li and Cheng, Jun and Gu, Zaiwang and Hao, Huaying and Qi, Hong and Zheng, Yalin and Frangi, Alejandro and Liu, Jiang.<br />
+  "CS-Net: Channel and Spatial Attention Network for Curvilinear Structure Segmentation" **MICCAI (2019)**.
+  [[paper](https://eprints.whiterose.ac.uk/160601/1/)]
+  
+- **AG-Net:** Zhang, Shihao and Fu, Huazhu and Yan, Yuguang and Zhang, Yubing and Wu, Qingyao and Yang, Ming and Tan, Mingkui and Xu, Yanwu.<br />
+  "Attention Guided Network for Retinal Image Segmentation" **MICCAI (2019)**.
+  [[paper](https://arxiv.org/pdf/1907.12930)]
+  [[code](https://github.com/HzFu/AGNet)]
+  
+- Li, Xiang and Jiang, Yuchen and Li, Minglei and Yin, Shen.<br />
+  "Lightweight Attention Convolutional Neural Network for Retinal Vessel Image Segmentation" **IEEE Transactions on Industrial Informatics (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9091247/)]
+  
+- **SAT-Net:** Tong, Huilin and Fang, Zhijun and Wei, Ziran and Cai, Qingping and Gao, Yongbin.<br />
+  "SAT-Net: a side attention network for retinal image segmentation" **Applied Intelligence (2021)**.
+  [[paper](https://link.springer.com/article/10.1007/s10489-020-01966-z)]
+  
+- **DEU-Net:** Wang, Bo and Qiu, Shuang and He, Huiguang.<br />
+  "Dual Encoding U-Net for Retinal Vessel Segmentation" **MICCAI (2019)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_10)]
+  
+- **CAR-UNet:** Guo, Changlu and Szemenyei, Marton and Hu, Yangtao and Wang, Wenle and Zhou, Wei and Yi, Yugen.<br />
+  "Channel attention residual u-net for retinal vessel segmentation" **ICASSP (2021)**.
+  [[paper](https://arxiv.org/pdf/2004.03702)]
+  [[code](https://github.com/clguo/CAR-UNet)]
+  
+- **CSAU:** Li, Ruirui and Li, Mingming and Li, Jiacheng and Zhou, Yating.<br />
+  "Connection Sensitive Attention U-NET for Accurate Retinal Vessel Segmentation" **arXiv (2019)**.
+  [[paper](https://arxiv.org/pdf/1903.05558)]
+  
+- Luo, Zhongming and Zhang, Yu and Zhou, Lei and Zhang, Binge and Luo, Jianan and Wu, Haibin.<br />
+  "Micro-Vessel Image Segmentation Based on the AD-UNet Model" **IEEE Access (2019)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/8600701/08859307.pdf)]  
+
+- **Sa-unet:** Guo, Changlu and Szemenyei, M{\'a}rton and Yi, Yugen and Wang, Wenle and Chen, Buer and Fan, Changqi.<br />
+  "Sa-unet: Spatial attention u-net for retinal vessel segmentation" **ICPR (2021)**.
+  [[paper](https://arxiv.org/pdf/2004.03696)]
+  [[code](https://github.com/clguo/SA-UNet)]
+  
+- **RSAN:** Guo, Changlu and Szemenyei, M{\'a}rton and Yi, Yugen and Zhou, Wei and Bian, Haodong.<br />
+  "Residual spatial attention network for retinal vessel segmentation" **ICONIP (2020)**.
+  [[paper](https://arxiv.org/pdf/2009.08829)]
+  [[code](https://github.com/clguo/RSAN)]
+
+- **FANet:** Li, Kaiqi and Qi, Xingqun and Luo, Yiwen and Yao, Zeyi and Zhou, Xiaoguang and Sun, Muyi.<br />
+  "Accurate retinal vessel segmentation in color fundus images via fully attention-based networks" **IEEE Journal of Biomedical and Health Informatics (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9210783/)]
+  [[code]()]
+  
+- Jiang, Yun and Yao, Huixia and Ma, Zeqi and Zhang, Jingyao.<br />
+  "Bi-SANet—Bilateral Network with Scale Attention for Retinal Vessel Segmentation" **Symmetry (2021)**.
+  [[paper](https://www.mdpi.com/2073-8994/13/10/1820/pdf)]
+  
+- Wang, Dongyi and Haytham, Ayman and Pottenburgh, Jessica and Saeedi, Osamah and Tao, Yang.<br />
+  "Hard attention net for automatic retinal vessel segmentation" **IEEE Journal of Biomedical and Health Informatics (2020)**.
+  [[paper](https://www.researchgate.net/profile/Dongyi-Wang-2/publication/342248007_Hard_Attention_Net_for_Automatic_Retinal_Vessel_Segmentation/links/5eeac2aa458515814a674d17/Hard-Attention-Net-for-Automatic-Retinal-Vessel-Segmentation.pdf)]
+
+- **DA-U-Net:** Wu, Cong and Zou, Yixuan and Zhan, Jinhao.<br />
+  "DA-U-Net: Densely Connected Convolutional Networks and Decoder with Attention Gate for Retinal Vessel Segmentation" **IOP Conference Series: Materials Science and Engineering (2019)**.
+  [[paper](https://iopscience.iop.org/article/10.1088/1757-899X/533/1/012053/pdf)]
+  
+- **S-UNet:** Hu, Jingfei and Wang, Hua and Gao, Shengbo and Bao, Mingkun and Liu, Tao and Wang, Yaxing and Zhang, Jicong.<br />
+  "S-UNet: A Bridge-Style U-Net Framework With a Saliency Mechanism for Retinal Vessel Segmentation" **IEEE Access (2019)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/08842560.pdf)]  
+
+- Lyu, Chengzhi and Hu, Guoqing and Wang, Dan.<br />
+  "Attention to fine-grained information: hierarchical multi-scale network for retinal vessel segmentation" **The Visual Computer (2020)**.
+  [[paper](https://link.springer.com/article/10.1007/s00371-020-02018-w)]
+  
+- **AA-UNet:** Lv, Yan and Ma, Hui and Li, Jianian and Liu, Shuangcai.<br />
+  "Attention guided U-Net with atrous convolution for accurate retinal vessels segmentation" **IEEE Access (2020)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/08999616.pdf)]
+  
+- Jiang, Yun and Yao, Huixia and Wu, Chao and Liu, Wenhuan.<br />
+  "A multi-scale residual attention network for retinal vessel segmentation" **Symmetry (2020)**.
+  [[paper](https://www.mdpi.com/2073-8994/13/1/24/pdf)]
+  
+- **BSEResU-Net:** Li, Di and Rahardja, Susanto.<br />
+  "BSEResU-Net: An attention-based before-activation residual U-Net for retinal vessel segmentation" **Computer Methods and Programs in Biomedicine (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0169260721001450)]  
+
+- Wu, Cong-Zhong and Sun, Jun and Wang, Jing and Xu, Liang-Feng and Zhan, Shu.<br />
+  "Encoding-decoding network with pyramid self-attention module for retinal vessel segmentation" **International Journal of Automation and Computing (2021)**.
+  [[paper](https://www.mi-research.net/en/article/pdf/preview/10.1007/s11633-020-1277-0.pdf)]
+  
+- **AR-SA U-Net:** Wang, Huadeng and Xu, Guang and Pan, Xipeng and Liu, Zhenbing and Tang, Ningning and Lan, Rushi and Luo, Xiaonan.<br />
+  "Attention-inception-based U-Net for retinal vessel segmentation with advanced residual" **Computers & Electrical Engineering (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0045790621005929)]  
+
+- Liu, Congjun and Gu, Penghui and Xiao, Zhiyong.<br />
+  "Multiscale U-Net with Spatial Positional Attention for Retinal Vessel Segmentation" **Journal of Healthcare Engineering (2022)**.
+  [[paper](https://www.hindawi.com/journals/jhe/2022/5188362/)]
+  
+- **DCU-net:** Yang, Xin and Li, Zhiqiang and Guo, Yingqing and Zhou, Dake.<br />
+  "DCU-net: a deformable convolutional neural network based on cascade U-net for retinal vessel segmentation" **Multimedia Tools and Applications (2022)**.
+  [[paper](https://link.springer.com/article/10.1007/s11042-022-12418-w)]
+  
+- **JointRCNN:** Jiang, Yuming and Duan, Lixin and Cheng, Jun and Gu, Zaiwang and Xia, Hu and Fu, Huazhu and Li, Changsheng and Liu, Jiang.<br />
+  "JointRCNN: A Region-Based Convolutional Neural Network for Optic Disc and Cup Segmentation" **IEEE Transactions on Biomedical Engineering (2019)**.
+  [[paper](https://www.researchgate.net/profile/Huazhu-Fu/publication/332659142_JointRCNN_A_Region-based_Convolutional_Neural_Network_for_Optic_Disc_and_Cup_Segmentation/links/5dc1597da6fdcc2128056593/JointRCNN-A-Region-based-Convolutional-Neural-Network-for-Optic-Disc-and-Cup-Segmentation.pdf)]
+  
+- **ATT-UNet:** Lian, Sheng and Luo, Zhiming and Zhong, Zhun and Lin, Xiang and Su, Songzhi and Li, Shaozi.<br />
+  "Attention guided U-Net for accurate iris segmentation" **Journal of Visual Communication and Image Representation (2018)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1047320318302372)]
+  
+- Bhatkalkar, Bhargav J and Reddy, Dheeraj R and Prabhu, Srikanth and Bhandary, Sulatha V.<br />
+  "Improving the performance of convolutional neural network for the segmentation of optic disc in fundus images using attention gates and conditional random fields" **IEEE Access (2020)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/08986563.pdf)]
+  
+- **ADAM:** Wu, Huisi and Pan, Junquan and Li, Zhuoying and Wen, Zhenkun and Qin, Jing.<br />
+  "Automated Skin Lesion Segmentation Via an Adaptive Dual Attention Module" **IEEE Transactions on Medical Imaging (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9207942/)]
+  [[code]()]
+
+- **Att-DenseUnet:** Wei, Zenghui and Song, Hong and Chen, Lei and Li, Qiang and Han, Guanghui.<br />
+  "Attention-Based DenseUnet Network With Adversarial Training for Skin Lesion Segmentation" **IEEE Access (2019)**.
+  [[paper](https://ieeexplore.ieee.org/iel7/6287639/8600701/08835031.pdf)]
+  
+- **ASCU-Net:** Tong, Xiaozhong and Wei, Junyu and Sun, Bei and Su, Shaojing and Zuo, Zhen and Wu, Peng.<br />
+  "ASCU-Net: Attention Gate, Spatial and Channel Attention U-Net for Skin Lesion Segmentation" **Diagnostics (2021)**.
+  [[paper](https://www.mdpi.com/2075-4418/11/3/501)]
+  
+- Ren, Yuan and Yu, Long and Tian, Shengwei and Cheng, Junlong and Guo, Zhiqi and Zhang, Yanhan.<br />
+  "Serial attention network for skin lesion segmentation" **Journal of Ambient Intelligence and Humanized Computing (2022)**.
+  [[paper](https://link.springer.com/article/10.1007/s12652-021-02933-3)]
+  
+- Arora, Ridhi and Raman, Balasubramanian and Nayyar, Kritagya and Awasthi, Ruchi.<br />
+  "Automated skin lesion segmentation using attention-based deep convolutional neural network" **Biomedical Signal Processing and Control (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1746809420304663)]
+  
+- Wang, Yu and Wang, Shengsheng.<br />
+  "Skin lesion segmentation with attention-based SC-Conv U-Net and feature map distortion" **Signal, Image and Video Processing (2022)**.
+  [[paper](https://link.springer.com/article/10.1007/s11760-021-02100-3)]
+  
+- **CA-Net:** Gu, Ran and Wang, Guotai and Song, Tao and Huang, Rui and Aertsen, Michael and Deprest, Jan and Ourselin, S{\'e}bastien and Vercauteren, Tom and Zhang, Shaoting.<br />
+  "CA-Net: Comprehensive Attention Convolutional Neural Networks for Explainable Medical Image Segmentation" **IEEE Transactions on Medical Imaging (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9246575/)]
+  [[code](https://github.com/HiLab-git/CA-Net)]
+
+- **RASNet:** Ni, Zhen-Liang and Bian, Gui-Bin and Xie, Xiao-Liang and Hou, Zeng-Guang and Zhou, Xiao-Hu and Zhou, Yan-Jie.<br />
+  "RASNet: Segmentation for Tracking Surgical Instruments in Surgical Videos Using Refined Attention Segmentation Network" **EMBC (2019)**.
+  [[paper](https://arxiv.org/pdf/1905.08663)]
+  
+- **RAUNet:** Ni, Zhen-Liang and Bian, Gui-Bin and Zhou, Xiao-Hu and Hou, Zeng-Guang and Xie, Xiao-Liang and Wang, Chen and Zhou, Yan-Jie and Li, Rui-Qi and Li, Zhen.<br />
+  "RAUNet: Residual Attention U-Net for Semantic Segmentation of Cataract Surgical Instruments" **ICONIP (2019)**.
+  [[paper](https://arxiv.org/pdf/1909.10360)]
+  
+- Jin, Yueming and Cheng, Keyun and Dou, Qi and Heng, Pheng-Ann.<br />
+  "Incorporating Temporal Prior from Motion Flow for Instrument Segmentation in Minimally Invasive Surgery Video" **MICCAI (2019)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_49)]
+
+- **SurgiNet:** Ni, Zhen-Liang and Zhou, Xiao-Hu and Wang, Guan-An and Yue, Wen-Qian and Li, Zhen and Bian, Gui-Bin and Hou, Zeng-Guang.<br />
+  "SurgiNet: Pyramid Attention Aggregation and Class-wise Self-Distillation for Surgical Instrument Segmentation" **Medical Image Analysis (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841521003558)]
+  
+- **HDA-ResUNet:** Wang, Zekun and Zou, Yanni and Liu, Peter X.<br />
+  "Hybrid dilation and attention residual U-Net for medical image segmentation" **Computers in Biology and Medicine (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0010482521002432)]
+  
+- **Attention Gated Networks:** Schlemper, Jo and Oktay, Ozan and Schaap, Michiel and Heinrich, Mattias and Kainz, Bernhard and Glocker, Ben and Rueckert, Daniel.<br />
+  "Attention Gated Networks: Learning to Leverage Salient Regions in Medical Images" **Medical image analysis (2019)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841518306133)]
+  [[code](https://www.github.com/ozan-oktay/Attention-Gated-Networks)]
+
+- **ANU-Net:** Li, Chen and Tan, Yusong and Chen, Wei and Luo, Xin and He, Yulin and Gao, Yuanming and Li, Fei.<br />
+  "ANU-Net: Attention-based nested U-Net to exploit full resolution features for medical image segmentation" **Computers & Graphics (2020)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0097849320300546)]
+  
+- **MSDN:** Wang, Duo and Li, Ming and Ben-Shlomo, Nir and Corrales, C Eduardo and Cheng, Yu and Zhang, Tao and Jayender, Jagadeesan.<br />
+  "Mixed-Supervised Dual-Network for Medical Image Segmentation" **MICCAI (2020)**.
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_22)]
+  
+- **AEC-net:** Wang, Jingyi and Zhao, Xu and Ning, Qingtian and Qian, Dahong.<br />
+  "AEC-net: attention and edge constraint network for medical image segmentation" **EMBC (2020)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/9176670/)]
+  
+- **CaraNet:** Lou, Ange and Guan, Shuyue and Loew, Murray.<br />
+  "CaraNet: Context Axial Reverse Attention Network for Segmentation of Small Medical Objects" **Journal of Medical Imaging (2023)**.
+  [[paper](https://arxiv.org/pdf/2108.07368)]
+  [[code](https://github.com/AngeLouCN/CaraNet)]
+  
+- Yang, Jin and Qiu, Kai.<br />
+  "An improved segmentation algorithm of CT image based on U-Net network and attention mechanism" **Multimedia Tools and Applications (2021)**.
+  [[paper](https://link.springer.com/article/10.1007/s11042-021-10841-z)]
+  
+- Xu, Lu and Gao, Shengbo and Shi, Lijuan and Wei, Boxuan and Liu, Xiaowei and Zhang, Jicong and He, Yihua.<br />
+  "Exploiting Vector Attention and Context Prior for Ultrasound Image Segmentation" **Neurocomputing (2021)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221007864)]
+  
+- **MC-Net:** Xia, Haiying and Ma, Mingjun and Li, Haisheng and Song, Shuxiang.<br />
+  "MC-Net: multi-scale context-attention network for medical CT image segmentation" **Applied Intelligence (2022)**.
+  [[paper](https://link.springer.com/article/10.1007/s10489-021-02506-z)]
+  
+- **DCACNet:** Lu, Hongchun and Tian, Shengwei and Yu, Long and Liu, Lu and Cheng, Junlong and Wu, Weidong and Kang, Xiaojing and Zhang, Dezhi.<br />
+  "DCACNet: Dual context aggregation and attention-guided cross deconvolution network for medical image segmentation" **Computer Methods and Programs in Biomedicine (2022)**.
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0169260721006404)]
+  [[code]()]
+  
+- **:** Cheng, Zhiming and Qu, Aiping and He, Xiaofeng.<br />
+  "Contour-aware semantic segmentation network with spatial attention mechanism for medical image" **The Visual Computer (2022)**.
+  [[paper](https://link.springer.com/content/pdf/10.1007/s00371-021-02075-9.pdf)]
+  
 
 
 
