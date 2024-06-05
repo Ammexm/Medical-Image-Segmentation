@@ -11,7 +11,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.29: Latest update of this paper list.
+- 2024.06.03: Latest update of this paper list.
 - 2023.05.29: The paper was online.
 ```
 ## Contents
