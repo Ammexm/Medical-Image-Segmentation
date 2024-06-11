@@ -1257,7 +1257,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2403.20035)]
   [[code](https://github.com/wurenkai/UltraLight-VM-UNet)]
 
-  - **Prompt-Mamba:** Xie, Jianhao and Liao, Ruofan and Zhang, Ziang and Yi, Sida and Zhu, Yuesheng and Luo, Guibo.<br />
+- **Prompt-Mamba:** Xie, Jianhao and Liao, Ruofan and Zhang, Ziang and Yi, Sida and Zhu, Yuesheng and Luo, Guibo.<br />
   "Promamba: Prompt-mamba for polyp segmentation" **arXiv (2024)**.
   [[paper](https://arxiv.org/pdf/2403.13660)]
 
@@ -1266,7 +1266,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2404.01065)]
   [[code](https://github.com/isbrycee/T-Mamba)]
 
-  - **HC-Mamba:** Xu, Jiashu.<br />
+- **HC-Mamba:** Xu, Jiashu.<br />
   "HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation" **arXiv (2024)**.
   [[paper](https://arxiv.org/abs/2405.05007)]
   
