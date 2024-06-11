@@ -11,7 +11,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.03: Latest update of this paper list.
+- 2024.06.011: Latest update of this paper list.
 - 2023.05.29: The paper was online.
 ```
 ## Contents
@@ -1242,3 +1242,33 @@ If you find our work useful in your research, please consider citing:
 - **P-Mamba:** Ye, Zi and Chen, Tianxiang.<br />
   "P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation" **arXiv (2024)**.
   [[paper](https://arxiv.org/abs/2402.08506)]
+
+- **Mamba‑HUNet:** Sanjid, Kazi Shahriar and Hossain, Md Tanzim and Junayed, Md Shakib Shahariar and Uddin, Dr Mohammad Monir.<br />
+  "Integrating mamba sequence model and hierarchical upsampling network for accurate semantic segmentation of multiple sclerosis legion" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2403.17432)]
+
+- **ViM-UNet:** Archit, Anwai and Pape, Constantin.<br />
+  "ViM-UNet: Vision Mamba for Biomedical Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2404.07705)]
+  [[code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)]
+
+- **UltraLight VM‑Unet:** Wu, Renkai and Liu, Yinghao and Liang, Pengchen and Chang, Qing.<br />
+  "Ultralight vm-unet: Parallel vision mamba significantly reduces parameters for skin lesion segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2403.20035)]
+  [[code](https://github.com/wurenkai/UltraLight-VM-UNet)]
+
+  - **Prompt-Mamba:** Xie, Jianhao and Liao, Ruofan and Zhang, Ziang and Yi, Sida and Zhu, Yuesheng and Luo, Guibo.<br />
+  "Promamba: Prompt-mamba for polyp segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2403.13660)]
+
+- **T-mamba:** Hao, Jing and He, Lei and Hung, Kuo Feng.<br />
+  "T-mamba: Frequency-enhanced gated long-range dependency for tooth 3d cbct segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/abs/2404.01065)]
+  [[code](https://github.com/isbrycee/T-Mamba)]
+
+  - **HC-Mamba:** Xu, Jiashu.<br />
+  "HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/abs/2405.05007)]
+  
+  
+  
