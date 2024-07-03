@@ -1,8 +1,8 @@
 # Attention Mechanisms in Medical Image Segmentation: A Survey
 
-> **A Comprehensive Survey on Medical image segmentation.** . [[paper](https://arxiv.org/abs/2305.17937)] [[homepage](https://github.com/Ammexm/Medical-Image-Segmentation)]
+> **A Comprehensive Survey on Medical image segmentation.** . [[paper]()] [[homepage](https://github.com/Ammexm/Medical-Image-Segmentation)]
 
-> **<p align="justify"> Abstract:** *......* </p>
+> **<p align="justify"> Abstract:** *Medical image segmentation plays an important role in computer-aided diagnosis.......* </p>
 
 
 > **Medical Image Segmentation Models:** A curated list of Medical Image Segmentation models in computer vision and beyond. This repository supplements our survey paper. We intend to continuously update it.
@@ -11,7 +11,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.011: Latest update of this paper list.
+- 2024.07.03: Latest update of this paper list.
 - 2023.05.29: The paper was online.
 ```
 ## Contents
