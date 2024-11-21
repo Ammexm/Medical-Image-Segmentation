@@ -694,40 +694,37 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2409.07793)]
   [[code](https://github.com/lzeeorno/Lagrange-Duality-and-CMAformer)]
 
-  - **MSA<sup>2</sup>Net:** Kolahi, Sina Ghorbani and Chaharsooghi, Seyed Kamal and Khatibi, Toktam and Bozorgpour, Afshin and Azad, Reza and Heidari, Moein and Hacihaliloglu, Ilker and Merhof, Dorit.<br />
+- **MSA<sup>2</sup>Net:** Kolahi, Sina Ghorbani and Chaharsooghi, Seyed Kamal and Khatibi, Toktam and Bozorgpour, Afshin and Azad, Reza and Heidari, Moein and Hacihaliloglu, Ilker and Merhof, Dorit.<br />
   "MSA<sup>2</sup>Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation" **arXiv (2024)**.
   [[paper](https://arxiv.org/pdf/2407.21640)]
   [[code](https://github.com/xmindflow/MSA-2Net)]
 
-- **:** .<br />
-  "" ** (2024)**.
-  [[paper]()]
-  [[code]()]
+- **SF-UNet:** Zhou, Zhenhuan and He, Along and Wu, Yanlin and Yao, Rui and Xie, Xueshuo and Li, Tao.<br />
+  ""Spatial-Frequency Dual Progressive Attention Network For Medical Image Segmentation **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2406.07952)]
+  [[code](https://github.com/nkicsl/SF-UNet)]
 
-  - **:** .<br />
-  "" ** (2024)**.
-  [[paper]()]
-  [[code]()]
+  - Khaniki, Mohammad Ali Labbaf and Mahjourian, Nazanin and Manthouri, Mohammad.<br />
+  ""Hierarchical SegNet with Channel and Context Attention for Accurate Lung Segmentation in Chest X-ray Images **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2405.12318)]
 
-- **:** .<br />
-  "" ** (2024)**.
-  [[paper]()]
-  [[code]()]
+- **EMCAD:** Rahman, Md Mostafijur and Munir, Mustafa and Marculescu, Radu.<br />
+  "EMCAD: Efficient multi-scale convolutional attention decoding for medical image segmentation" **CVPR (2024)**.
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Rahman_EMCAD_Efficient_Multi-scale_Convolutional_Attention_Decoding_for_Medical_Image_Segmentation_CVPR_2024_paper.pdf)]
+  [[code](https://github.com/SLDGroup/EMCAD.)]
 
-  - **:** .<br />
-  "" ** (2024)**.
-  [[paper]()]
-  [[code]()]
+  - **MADGNet:** Nam, Ju-Hyeon and Syazwany, Nur Suriza and Kim, Su Jung and Lee, Sang-Chul.<br />
+  "Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention" **CVPR (2024)**.
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Nam_Modality-agnostic_Domain_Generalizable_Medical_Image_Segmentation_by_Multi-Frequency_in_Multi-Scale_CVPR_2024_paper.pdf)]
+  [[code](https://github.com/Inha-CVAI/MADGNet)]
 
-- **:** .<br />
-  "" ** (2024)**.
-  [[paper]()]
-  [[code]()]
+- **MFA-Net:** Yuan, Yanli and Wang, Bingbing and Zhang, Chuan and Xu, Jingyi and Liu, Ximeng and Zhu, Liehuang.<br />
+  "MFA-Net: Multi-Scale feature fusion attention network for liver tumor segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2405.04064)]
 
-  - **:** .<br />
-  "" ** (2024)**.
-  [[paper]()]
-  [[code]()]
+  - **CBSM:** Khaniki, Mohammad Ali Labbaf and Manthouri, Mohammad.<br />
+  "A Novel Approach to Chest X-ray Lung Segmentation Using U-net and Modified Convolutional Block Attention Module" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2404.14322)]
 
 ### Transformer in medical Segmentation
 - **Cell-DETR:** Prangemeier, Tim and Reich, Christoph and Koeppl, Heinz.<br />
@@ -1223,6 +1220,49 @@ If you find our work useful in your research, please consider citing:
   "Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization" **CVPR (2023)**.
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yuan_Devil_Is_in_the_Queries_Advancing_Mask_Transformers_for_Real-World_CVPR_2023_paper.pdf)]
 
+- **EMF-Former:** Hao, Zhaoquan and Quan, Hongyan and Lu, Yinbin.<br />
+  "EMF-Former: An Efficient and Memory-Friendly Transformer for Medical Image Segmentation" **MACCAI (2024)**.
+  [[paper](https://papers.miccai.org/miccai-2024/paper/1181_paper.pdf)]
+
+- Chen, Lingyu and Wang, Yue and Zhao, Zhe and Liao, Hongen and Zhang, Daoqiang and Han, Haojie and Chen, Fang.<br />
+  "Hybrid-Structure-Oriented Transformer for Arm Musculoskeletal Ultrasound Segmentation" **MACCAI (2024)**.
+  [[paper](https://papers.miccai.org/miccai-2024/paper/1638_paper.pdf)]
+
+- **CMAformer:** Zheng, Fuchen and Li, Quanjun and Li, Weixuan and Chen, Xuhang and Dong, Yihang and Huang, Guoheng and Pun, Chi-Man and Zhou, Shoujun.<br />
+  "Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.07793)]
+  [[code](https://github.com/lzeeorno/Lagrange-Duality-and-CMAformer)]
+
+- **TransDAE:** Azad, Bobby and Adibfar, Pourya and Fu, Kaiqun.<br />
+  "TransDAE: Dual Attention Mechanism in a Hierarchical Transformer for Efficient Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.02018)]
+
+- **SMAFormer:** Zheng, Fuchen and Chen, Xuhang and Liu, Weihuang and Li, Haolun and Lei, Yingtie and He, Jiahui and Pun, Chi-Man and Zhou, Shounjun.<br />
+  "SMAFormer: Synergistic multi-attention transformer for medical image segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.00346)]
+  [[code](https://github.com/lzeeorno/SMAFormer)]
+
+- **HMT-UNet:** Zhang, Mingya and Chen, Zhihao and Ge, Yiyuan and Tao, Xianping.<br />
+  "HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2408.11289)]
+  [[code](https://github.com/simzhangbest/HMT-Unet.)]
+
+- **CC-SAM:** Gowda, Shreyank N and Clifton, David A.<br />
+  "CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2408.00181)]
+
+- **MSA<sup>2</sup>Net:** Kolahi, Sina Ghorbani and Chaharsooghi, Seyed Kamal and Khatibi, Toktam and Bozorgpour, Afshin and Azad, Reza and Heidari, Moein and Hacihaliloglu, Ilker and Merhof, Dorit.<br />
+  "MSA<sup>2</sup>Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2407.21640)]
+  [[code](https://github.com/xmindflow/MSA-2Net)]
+  
+- **MDT-AF:** Wang, Wentao and Xiao, Xi and Liu, Mingjie and Tian, Qing and Huang, Xuanyao and Lan, Qizhen and Roy, Swalpa Kumar and Wang, Tianyang.<br />
+  "Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2405.12328)]
+
+- **CAFCT-Net:** Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, C-W Rapha{\"e}l.<br />
+  "CAFCT-NET: A CNN-TRANSFORMER HYBRID NETWORK WITH CONTEXTUAL AND ATTENTIONAL FEATURE FUSION FOR LIVER TUMOR SEGMENTATION" **ICIP (2024)**.
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10647768/)]
 
 ### Mamba in medical Segmentation
 - **Mamba:** Gu, Albert and Dao, Tri.<br />
