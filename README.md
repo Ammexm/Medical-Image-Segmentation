@@ -11,7 +11,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.03: Latest update of this paper list.
+- 2024.11.21: Latest update of this paper list.
 - 2023.05.29: The paper was online.
 ```
 ## Contents
@@ -680,6 +680,54 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2303.17696)]
   [[code](https://github.com/gorkemcanates/Dual-Cross-Attention)]
 
+- **cDAL:** Hejrati, Behzad and Banerjee, Soumyanil and Glide-Hurst, Carri and Dong, Ming.<br />
+  "Conditional diffusion model with spatial attention and latent embedding for medical image segmentation" **Springer (2024)**.
+  [[paper](https://www.researchgate.net/profile/Soumyanil-Banerjee-2/publication/384592212_Conditional_Diffusion_Model_with_Spatial_Attention_and_Latent_Embedding_for_Medical_Image_Segmentation/links/671bc390393e8533f716e285/Conditional-Diffusion-Model-with-Spatial-Attention-and-Latent-Embedding-for-Medical-Image-Segmentation.pdf)]
+  [[code](https://github.com/Hejrati/cDAL/)]
+
+- **GASA-UNet:** Sun, Chengkun and Terry, Russell Stevens and Bian, Jiang and Xu, Jie.<br />
+  "GASA-UNet: Global Axial Self-Attention U-Net for 3D Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.13146)]
+
+- **CMAformer:** Zheng, Fuchen and Li, Quanjun and Li, Weixuan and Chen, Xuhang and Dong, Yihang and Huang, Guoheng and Pun, Chi-Man and Zhou, Shoujun.<br />
+  "Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.07793)]
+  [[code](https://github.com/lzeeorno/Lagrange-Duality-and-CMAformer)]
+
+  - **MSA $\^{} 2$ Net:** Kolahi, Sina Ghorbani and Chaharsooghi, Seyed Kamal and Khatibi, Toktam and Bozorgpour, Afshin and Azad, Reza and Heidari, Moein and Hacihaliloglu, Ilker and Merhof, Dorit.<br />
+  "MSA $\^{} 2$ Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2407.21640)]
+  [[code](https://github.com/xmindflow/MSA-2Net)]
+
+- **:** .<br />
+  "" ** (2024)**.
+  [[paper]()]
+  [[code]()]
+
+  - **:** .<br />
+  "" ** (2024)**.
+  [[paper]()]
+  [[code]()]
+
+- **:** .<br />
+  "" ** (2024)**.
+  [[paper]()]
+  [[code]()]
+
+  - **:** .<br />
+  "" ** (2024)**.
+  [[paper]()]
+  [[code]()]
+
+- **:** .<br />
+  "" ** (2024)**.
+  [[paper]()]
+  [[code]()]
+
+  - **:** .<br />
+  "" ** (2024)**.
+  [[paper]()]
+  [[code]()]
 
 ### Transformer in medical Segmentation
 - **Cell-DETR:** Prangemeier, Tim and Reich, Christoph and Koeppl, Heinz.<br />
