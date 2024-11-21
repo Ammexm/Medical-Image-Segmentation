@@ -681,7 +681,7 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/gorkemcanates/Dual-Cross-Attention)]
 
 - **cDAL:** Hejrati, Behzad and Banerjee, Soumyanil and Glide-Hurst, Carri and Dong, Ming.<br />
-  "Conditional diffusion model with spatial attention and latent embedding for medical image segmentation" **Springer (2024)**.
+  "Conditional diffusion model with spatial attention and latent embedding for medical image segmentation" **MICCAI (2024)**.
   [[paper](https://www.researchgate.net/profile/Soumyanil-Banerjee-2/publication/384592212_Conditional_Diffusion_Model_with_Spatial_Attention_and_Latent_Embedding_for_Medical_Image_Segmentation/links/671bc390393e8533f716e285/Conditional-Diffusion-Model-with-Spatial-Attention-and-Latent-Embedding-for-Medical-Image-Segmentation.pdf)]
   [[code](https://github.com/Hejrati/cDAL/)]
 
@@ -1260,7 +1260,7 @@ If you find our work useful in your research, please consider citing:
   "Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation" **arXiv (2024)**.
   [[paper](https://arxiv.org/pdf/2405.12328)]
 
-- **CAFCT-Net:** Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, C-W Rapha{\"e}l.<br />
+- **CAFCT-Net:** Kang, Ming and Ting, Chee-Ming and Ting, Fung Fung and Phan, C-W Raphael.<br />
   "CAFCT-NET: A CNN-TRANSFORMER HYBRID NETWORK WITH CONTEXTUAL AND ATTENTIONAL FEATURE FUSION FOR LIVER TUMOR SEGMENTATION" **ICIP (2024)**.
   [[paper](https://ieeexplore.ieee.org/abstract/document/10647768/)]
 
@@ -1357,6 +1357,93 @@ If you find our work useful in your research, please consider citing:
 - **HC-Mamba:** Xu, Jiashu.<br />
   "HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation" **arXiv (2024)**.
   [[paper](https://arxiv.org/abs/2405.05007)]
-  
-  
-  
+
+  - **AC-MAMBASEG:** Nguyen, Viet-Thanh and Pham, Van-Truong and Tran, Thi-Thao.<br />
+  "AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2405.03011)]
+  [[code](https://github.com/vietthanh2710/AC-MambaSeg)]
+
+  - **CAMS-Net:** Khan, Abbas and Asad, Muhammad and Benning, Martin and Roney, Caroline and Slabaugh, Gregory.<br />
+  "CAMS: Convolution and Attention-Free Mamba-based Cardiac Image Segmentation" **arXiv (2024)**.
+  [[paper](https://www.researchgate.net/profile/Abbas-Khan-13/publication/381307063_Convolution_and_Attention-Free_Mamba-based_Cardiac_Image_Segmentation/links/66e2e583b1606e24c224de55/Convolution-and-Attention-Free-Mamba-based-Cardiac-Image-Segmentation.pdf)]
+  [[code](https://github.com/kabbas570/CAMS-Net)]
+
+  - **EM-Net:** Chang, Ao and Zeng, Jiajun and Huang, Ruobing and Ni, Dong.<br />
+  "EM-Net: Efficient Channel and Frequency Learning with Mamba for 3D Medical Image Segmentation" **MICCAI (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.17675)]
+  [[code](https://github.com/zang0902/EM-Net)]
+
+  - **HMT-UNet:** Zhang, Mingya and Chen, Zhihao and Ge, Yiyuan and Tao, Xianping.<br />
+  "HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2408.11289)]
+  [[code](https://github.com/simzhangbest/HMT-Unet)]
+
+  - **LKM-UNet:** Wang, Jinhong and Chen, Jintai and Chen, Danny and Wu, Jian.<br />
+  "LKM-UNet: Large Kernel Vision Mamba UNet for Medical Image Segmentation" **MICCAI (2024)**.
+  [[paper](https://papers.miccai.org/miccai-2024/paper/0286_paper.pdf)]
+  [[code](https://github.com/wjh892521292/LKM-UNet.)]
+
+  - **LM-UNet:** Liu, Anglin and Jia, Dengqiang and Sun, Kaicong and Meng, Runqi and Zhao, Meixin and Jiang, Yongluo and Dong, Zhijian and Gao, Yaozong and Shen, Dinggang.<br />
+  "LM-UNet: Whole-body PET-CT Lesion Segmentation with Dual-Modality-based Annotations Driven by Latent Mamba U-Net" **MICCAI (2024)**.
+  [[paper](https://papers.miccai.org/miccai-2024/paper/1851_paper.pdf)]
+  [[code](https://github.com/Joey-S-Liu/LM-UNet)]
+
+  - **LoG-VMamba:** Dang, Trung Dinh Quoc and Nguyen, Huy Hoang and Tiulpin, Aleksei.<br />
+  "LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2408.14415)]
+  [[code](https://github.com/Oulu-IMEDS/LoG-VMamba)]
+
+  - **MambaClinix:** Bian, Chenyuan and Xia, Nan and Yang, Xia and Wang, Feifei and Wang, Fengjiao and Wei, Bin and Dong, Qian.<br />
+  "MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.12533)]
+  [[code](https://github.com/CYB08/MambaClinix-PyTorch)]
+
+  - **MSVM-UNet:** Chen, Chaowei and Yu, Li and Min, Shiquan and Wang, Shunfang.<br />
+  "MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2408.13735)]
+  [[code](https://github.com/gndlwch2w/msvm-unet)]
+
+  - **OCTAMamba:** Zou, Shun and Zhang, Zhuo and Gao, Guangwei.<br />
+  "OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.08000)]
+  [[code](https://github.com/zs1314/OCTAMamba)]
+
+  - **Polyp-Mamba:** Xu, Zhongxing and Tang, Feilong and Chen, Zhe and Zhou, Zheng and Wu, Weishan and Yang, Yuyao and Liang, Yu and Jiang, Jiyu and Cai, Xuyue and Su, Jionglong.<br />
+  "Polyp-Mamba: Polyp Segmentation with Visual Mamba" **MICCAI (2024)**.
+  [[paper](https://papers.miccai.org/miccai-2024/paper/0697_paper.pdf)]
+
+  - **ProMamba:** Xie, Jianhao and Liao, Ruofan and Zhang, Ziang and Yi, Sida and Zhu, Yuesheng and Luo, Guibo.<br />
+  "ProMamba: Prompt-mamba for polyp segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2403.13660)]
+
+  - **ShapeMamba-EM:** Shi, Ruohua and Pang, Qiufan and Ma, Lei and Duan, Lingyu and Huang, Tiejun and Jiang, Tingting.<br />
+  "ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation" **MICCAI (2024)**.
+  [[paper](https://arxiv.org/pdf/2408.14114)]
+
+  - **SliceMamba:** Fan, Chao and Yu, Hongyuan and Huang, Yan and Wang, Liang and Yang, Zhenghan and Jia, Xibin.<br />
+  "SliceMamba with Neural Architecture Search for Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2407.08481)]
+
+  - **SpineMamba:** Zhang, Zhiqing and Liu, Tianyong and Fan, Guojia and Li, Bin and Feng, Qianjin and Zhou, Shoujun.<br />
+  "SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2408.15887)]
+
+  - Lumetti, Luca and Pipoli, Vittorio and Marchesini, Kevin and Ficarra, Elisa and Grana, Costantino and Bolelli, Federico.<br />
+  "Taming Mambas for Voxel Level 3D Medical Image Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2410.15496)]
+
+  - **Tri-Plane Mamba:** Wang, Hualiang and Lin, Yiqun and Ding, Xinpeng and Li, Xiaomeng.<br />
+  "Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images" **MICCAI (2024)**.
+  [[paper](https://arxiv.org/pdf/2409.08492)]
+  [[code](https://github.com/xmed-lab/TP-Mamba)]
+
+  - **UU-Mamba:** Tsai, Ting Yu and Lin, Li and Hu, Shu and Chang, Ming-Ching and Zhu, Hongtu and Wang, Xin.<br />
+  "UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation" **MIPR (2024)**.
+  [[paper](https://arxiv.org/pdf/2405.17496)]
+  [[code](https://github.com/tiffany9056/UU-Mamba)]
+
+  - **:** Fang, Zhuoyi and Shi, KeXuan and Han, Qiang.<br />
+  "When Mamba Meets xLSTM: An Efficient and Precise Method with the XLSTMVMUNet Model for Skin lesion Segmentation" **arXiv (2024)**.
+  [[paper](https://arxiv.org/pdf/2411.09363)]
+  [[code](https://github.com/MrFang/xLSTM-VMUNet)]
+
