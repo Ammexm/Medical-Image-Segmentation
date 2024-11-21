@@ -694,8 +694,8 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/pdf/2409.07793)]
   [[code](https://github.com/lzeeorno/Lagrange-Duality-and-CMAformer)]
 
-  - **MSA $\^{} 2$ Net:** Kolahi, Sina Ghorbani and Chaharsooghi, Seyed Kamal and Khatibi, Toktam and Bozorgpour, Afshin and Azad, Reza and Heidari, Moein and Hacihaliloglu, Ilker and Merhof, Dorit.<br />
-  "MSA $\^{} 2$ Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation" **arXiv (2024)**.
+  - **MSA<sup>2</sup>Net:** Kolahi, Sina Ghorbani and Chaharsooghi, Seyed Kamal and Khatibi, Toktam and Bozorgpour, Afshin and Azad, Reza and Heidari, Moein and Hacihaliloglu, Ilker and Merhof, Dorit.<br />
+  "MSA<sup>2</sup>Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation" **arXiv (2024)**.
   [[paper](https://arxiv.org/pdf/2407.21640)]
   [[code](https://github.com/xmindflow/MSA-2Net)]
 
