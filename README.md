@@ -2,7 +2,7 @@
 
 > **A Comprehensive Survey on Medical image segmentation.** . [[paper]()] [[homepage](https://github.com/Ammexm/Medical-Image-Segmentation)]
 
-> **<p align="justify"> Abstract:** * Medical image segmentation plays an important role in computer-aided diagnosis. ......* </p>
+> **<p align="justify"> Abstract:** Medical image segmentation plays an important role in computer-aided diagnosis. ...... </p>
 
 
 > **Medical Image Segmentation Models:** A curated list of Medical Image Segmentation models in computer vision and beyond. This repository supplements our survey paper. We intend to continuously update it.
